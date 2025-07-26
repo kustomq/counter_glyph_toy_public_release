@@ -5,7 +5,6 @@ Welcome to the official repository for **Counter – A Glyph Toy**.
 This repository hosts public APK releases of the app.
 
 📦 **Download**  
-
 Download the `.apk` file under the releases folder or use the [Releases](../../releases) feature in this repository.
 
 **Note:** Only the APK is provided—source code is not included in this repository.
