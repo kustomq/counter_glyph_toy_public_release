@@ -1,6 +1,6 @@
 # Counter – A Glyph Toy
 
-Welcome to the official repository for **Counter – A Glyph Toy**.
+Welcome to the official repository for **Counter – A Glyph Toy/Tool**.
 
 This repository hosts public releases of the app - source code is not included.
 
@@ -13,7 +13,7 @@ If you have feedback or feature suggestions, feel free to [open an issue](../../
 
 📦 **Download**  
 
-Download the `.apk` file under the releases folder or use the [releases](../../releases) feature in this repository.
+Download the appropriate `.apk` file for your device under the releases folder or use the [releases](../../releases) feature in this repository.
 
 ---
 
