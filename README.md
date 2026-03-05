@@ -13,7 +13,7 @@ If you have feedback or feature suggestions, feel free to [open an issue](../../
 
 📦 **Download**  
 
-Download the appropriate `.apk` file for your device under the releases folder or use the [releases](../../releases) feature in this repository.
+Download the appropriate `.apk` file for your device under the releases folder.
 
 ---
 
